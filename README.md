@@ -1,3 +1,4 @@
-# [个人博客](https://yyaf.github.io/)
+# 博客
 
-## 记录学习笔记
+> 使用hugo + GitHub Pages部署。  
+> 博客地址：[MapleY](https://yyaf.github.io/)
