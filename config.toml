@@ -358,6 +358,7 @@ theme = "LoveIt"
         repo = "yyaf.github.io"
         clientId = "a12315a7f2eeb0bbe6ae"
         clientSecret = "8e2eac6977291ee241c16d649d52d62e5ea1e813"
+        proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = false
