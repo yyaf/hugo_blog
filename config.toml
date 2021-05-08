@@ -15,7 +15,7 @@ theme = "LoveIt"
   # LoveIt 更改 | 0.2.0 LoveIt 主题版本
   version = "0.2.X"
   # 网站描述
-  description = "这是我的全新 Blog 网站"
+  description = "这是一个用来记录学习的 Blog 静态网站。"
   # 网站关键词
   keywords = ["Blog", "Python", "学习", "笔记"]
   # 网站默认主题样式 ("light", "dark", "auto")
@@ -136,7 +136,7 @@ theme = "LoveIt"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
-      subtitle = "这是我的全新 Blog 网站"
+      subtitle = "🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
