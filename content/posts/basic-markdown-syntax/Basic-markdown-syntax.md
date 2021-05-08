@@ -8,8 +8,8 @@ author: "yyaf"
 authorLink: "https://yyaf.github.io"
 description: "这篇文章展示了基本的 Markdown 语法和格式."
 resources:
-- name: "featured-image"
-  src: "featured-image.png"
+- name: "image"
+  src: "IMG_20210410_075231.jpg"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
