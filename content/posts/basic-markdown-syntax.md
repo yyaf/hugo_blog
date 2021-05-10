@@ -21,6 +21,8 @@ lightgallery: true
 
 <!--more-->
 
+![Vim](vim指南.jpg)
+
 {{< admonition >}}
 这篇文章借鉴了一篇很棒的[来自 Grav 的文章](http://learn.getgrav.org/content/markdown).
 
