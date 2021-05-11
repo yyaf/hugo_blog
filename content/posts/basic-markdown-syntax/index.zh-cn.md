@@ -1,15 +1,15 @@
 ---
 weight: 4
 title: "Markdown 基本语法"
-date: 2021-05-09T00:02:40+08:00
-lastmod: 2021-05-09T00:02:40+08:00
+date: 2019-12-01T21:57:40+08:00
+lastmod: 2020-01-01T16:45:40+08:00
 draft: false
-author: "yyaf"
-authorLink: "https://yyaf.github.io"
+author: "Dillon"
+authorLink: "https://dillonzq.com"
 description: "这篇文章展示了基本的 Markdown 语法和格式."
-
-
-
+resources:
+- name: "featured-image"
+  src: "featured-image.png"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
@@ -20,8 +20,6 @@ lightgallery: true
 这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.
 
 <!--more-->
-
-![Vim](/images/vim指南.jpg)
 
 {{< admonition >}}
 这篇文章借鉴了一篇很棒的[来自 Grav 的文章](http://learn.getgrav.org/content/markdown).
@@ -275,7 +273,6 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 >> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 ## 8 列表
-
 ### 无序列表
 一系列项的列表, 其中项的顺序没有明显关系.
 你可以使用以下任何符号来表示无序列表中的项:
@@ -605,7 +602,6 @@ grunt.initConfig({
 | ext    | extension to be used for dest files. |
 {{< /admonition >}}
 ## 11 链接 {#links}
-
 ### 基本链接
 ```markdown
 <https://assemble.io>
