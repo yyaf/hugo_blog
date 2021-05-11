@@ -655,13 +655,13 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "terminal-solid.svg"
       # title name
       # 标题名称
       name = "FxxkAll"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class="far fa-keyboard"></i>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
