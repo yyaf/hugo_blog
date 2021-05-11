@@ -256,7 +256,7 @@ enableEmoji = true
         identifier = "documentation"
         pre = ""
         name = "文档"
-        url = "/categories/documentation/"
+        url = "/categories/"
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
