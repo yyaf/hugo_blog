@@ -252,13 +252,13 @@ enableEmoji = true
         url = "/posts/"
         title = ""
         weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        name = "文档"
-        url = "/categories/"
-        title = ""
-        weight = 2
+      # [[languages.zh-cn.menu.main]]
+       # identifier = "documentation"
+        # pre = ""
+        # name = "文档"
+        # url = "/categories/documentation/"
+        # title = ""
+        # weight = 2
       [[languages.zh-cn.menu.main]]
         identifier = "categories"
         pre = ""
