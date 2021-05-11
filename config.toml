@@ -346,7 +346,7 @@ enableEmoji = true
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
-          subtitle = "{{< typeit code=python >}}print('Hello World!){{< /typeit >}}"
+          subtitle = "print('Hello World!)"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
@@ -655,13 +655,13 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "terminal-solid.svg"
+      logo = "/logo.png"
       # title name
       # 标题名称
       name = "FxxkAll"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = ""
+      pre = "<i class="fas fa-terminal"></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
