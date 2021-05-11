@@ -1,4 +1,4 @@
-baseURL = "https://yyaf.github.io/"
+baseURL = "/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
@@ -7,7 +7,7 @@ defaultContentLanguage = "zh-cn"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "/"
+themesDir = ""
 
 # website title
 # 网站标题
