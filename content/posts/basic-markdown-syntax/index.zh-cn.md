@@ -7,10 +7,7 @@ draft: false
 author: "Dillon"
 authorLink: "https://dillonzq.com"
 description: "这篇文章展示了基本的 Markdown 语法和格式."
-resources:
-- name: "featured-image"
-  src: https://cdn.jsdelivr.net/gh/yyaf/Boomb@main/images/文章配图/01/featured-image.png
-
+featuredImagePreview: "https://cdn.jsdelivr.net/gh/yyaf/Boomb@main/images/文章配图/01/featured-image.png"
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
 
