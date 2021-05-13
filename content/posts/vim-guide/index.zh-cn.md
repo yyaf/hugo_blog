@@ -7,7 +7,7 @@ draft: false
 author: "yyaf"
 authorLink: "https://yyaf.github.io"
 description: "这篇文章展示了 VIM 的基本使用方法."
-featuredImagePreview: "https://cdn.jsdelivr.net/gh/yyaf/Boomb@main/images/文章配图/02/vim指南.jpg " 
+featuredImagePreview: "https://cdn.jsdelivr.net/gh/yyaf/Boomb@main/images/文章配图/02/vim指南.jpg" 
 tags: ["Vim"]
 categories: ["编辑器"]
 
