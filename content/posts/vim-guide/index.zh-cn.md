@@ -7,6 +7,7 @@ draft: false
 author: "yyaf"
 authorLink: "https://yyaf.github.io"
 description: "这篇文章展示了 VIM 的基本使用方法."
+
 featuredImagePreview: "https://cdn.jsdelivr.net/gh/yyaf/Boomb@main/images/文章配图/02/vim指南.jpg" 
 tags: ["Vim"]
 categories: ["编辑器"]
@@ -88,7 +89,7 @@ f 查找一行内的内容。
 将整个文件中的单词“Line”个很改为“line”：  
 :%s/Line/line/g  
 分解为：
-: 运行一个ex命令。  
+`:` 运行一个ex命令。  
 % 指定要操作的行署。%是一个快捷方式，表示从第一行到最后一行。令为，操作范围也可以用1，5来代替，或者用1，$来代替。  
 s 制定操作。在这种情况下是，替换（查找与替代）。  
 /Line/line 查找类型与代替文本。  
