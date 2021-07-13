@@ -296,7 +296,7 @@ enableEmoji = true
       # 网站描述
       description = "个人学习记录 blog"
       # 网站关键词
-      keywords = ["Python", "Teach", "Linux"]
+      keywords = ["Python", "Teach", "Linux", "JavaScript"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -346,7 +346,7 @@ enableEmoji = true
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
-          subtitle = "print('他妈的！')"
+          subtitle = "黄金时代"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
